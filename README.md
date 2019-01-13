@@ -1,4 +1,4 @@
-Updated at : 7-Jan-2019 at 20:06 GMT+1
+Updated at : 13-Jan-2019 at 18:52 GMT+1
 
 # Outer-Kerbin
 KPS Planet Pack. An expansion of the Kerbin SOI.
@@ -14,3 +14,10 @@ By adding several new bodies to the Kerbin SOI, you get to explore more, close t
 <b> EARLY STATE OF DEVELOPMENT. MORE CONTENT WILL BE ADDED</b>
  
  <i> Currently only holds "Phybi", a moon that skirts the outer layers of the sphere of influence </i>
+ 
+ <b> Change Log </b>
+ -  Phybi Total overhaul
+ -  Added moon "Iszmi" in orbit around Phybi.
+ 
+ <b>Known Issues</b>
+ -  Phybi biome map is still running on previous version
