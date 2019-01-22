@@ -1,5 +1,5 @@
-<b> DeltaV readme for a succesfull Phybi Return </b>
-<i> dV numbers based on a test i have done from lower kerbin orbit </i>
+DeltaV readme for a succesfull Phybi Return
+dV numbers based on a test i have done from lower kerbin orbit
 
 From LKO (86km) to Plane Change (inclination 12) to Phybi = 400 m/s
 Phybi Intercept Burn = 1000 m/s
@@ -7,14 +7,14 @@ Phybi Capture Burn for 800km x 800km orbit = 140 m/s
 Lowering from 800km orbit to a 50km orbit = 260 m/s
 From a 50km orbit to landing on Phybi Surface = 720 m/s
 
-<b>Total dV needed from LKO to Phybi Surface = 2520 m/s based on numbers above</b>
+Total dV needed from LKO to Phybi Surface = 2520 m/s based on numbers above
 
 From Phybi Surface to 50km orbit = 780 m/s
 From 50km orbit to Kerbin Atmosphere Re-Entry (35km) = 200 m/s
 
-<b>Total dV needed from Phybi Surface to Kerbin Re-Entry = 980 m/s</b>
+Total dV needed from Phybi Surface to Kerbin Re-Entry = 980 m/s
 
-<b>Total dV needed for a return trip from LKO to Phybi Surface to Kerbin Re-Entry = 3500 m/s</b>
+Total dV needed for a return trip from LKO to Phybi Surface to Kerbin Re-Entry = 3500 m/s
 
 note that all numbers are estimates and upped to a round number. It depends highly on your efficiency of nodes and adjustments!
 Adding an additional 500 dV would be adviced!
