@@ -11,17 +11,16 @@ Than "Outer Kerbin" might be what you are looking for!
 
 By adding several new bodies to the Kerbin SOI, you get to explore more, close to home. 
 
-<b> EARLY STATE OF DEVELOPMENT. MORE CONTENT WILL BE ADDED</b>
- 
- <i> Currently only holds "Phybi", a moon that skirts the outer layers of the sphere of influence </i>
+<b> WORK IN PROGRESS. MORE CONTENT MIGHT BE ADDED IN THE FUTURE</b>
  
  <b> Change Log </b>
- <u>22-Jan-2019</u>
+ 
+<i>22-Jan-2019</i>
  - Changed SemiMajorAxis to 65000000
  - Reduced ScienceValues
  - Added Delta-V readme
  
- <u>13-Jan-2019</u>
+<i>13-Jan-2019</i>
  -  Phybi Total overhaul
  -  Added moon "Iszmi" in orbit around Phybi.
  
