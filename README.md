@@ -1,4 +1,4 @@
-Updated at : 22-Jan-2019 at 21:47 GMT+1
+Updated at : 21-Jul-2019 at 20:43 GMT+1
 
 # Outer-Kerbin
 KPS Planet Pack. An expansion of the Kerbin SOI.
@@ -14,7 +14,7 @@ By adding several new bodies to the Kerbin SOI, you get to explore more, close t
 <b> DeltaV readme for a succesfull Phybi Return </b>
 <i> dV numbers based on a test i have done from lower kerbin orbit </i>
 
-<b>Estimated Delta V for a succesfull trip</b>
+<b>Estimated Delta V for a succesfull trip</b><i>outdated since v1.1</i>
 - Total dV needed from LKO to Phybi Surface = <b>2520 m/s</b>
 - Total dV needed from Phybi Surface to Kerbin Re-Entry = <b>980 m/s</b>
 - Total dV needed for a return trip from LKO to Phybi Surface to Kerbin Re-Entry = <b>3500 m/s</b>
@@ -22,6 +22,11 @@ By adding several new bodies to the Kerbin SOI, you get to explore more, close t
 <b> WORK IN PROGRESS. MORE CONTENT MIGHT BE ADDED IN THE FUTURE</b>
  
  <b> Change Log </b>
+ 
+<i>21-Jul-2019</i>
+ - Updated Iszmi Biomemap. Simplified
+ - Increased GeeASL of iszmi from 0.1 to 0.2
+ - Increased GeeASL of Phybi from 0.25 to 0.33
  
 <i>22-Jan-2019</i>
  - Changed SemiMajorAxis to 65000000
